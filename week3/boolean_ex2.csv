@@ -1,0 +1,5 @@
+userPurchaseAmount,minPurchaseForPromo,userLocation,eligibleLocation,is eligible?,(userPurchaseAmount > minPurchaseForPromo) && (userLocation == eligibleLocation)
+150,100,USA,USA,,TRUE
+150,100,Canada,USA,,FALSE
+50,100,USA,USA,,FALSE
+50,100,Canada,USA,,FALSE

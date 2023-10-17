@@ -1,0 +1,5 @@
+userAge,minimumAge,isMember,Can register,Can register
+20,18,TRUE,,TRUE
+20,18,FALSE,,FALSE
+17,18,TRUE,,FALSE
+17,18,FALSE,,FALSE

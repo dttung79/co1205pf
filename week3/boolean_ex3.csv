@@ -1,0 +1,9 @@
+carSpeed,minSpeedRequirement,carWeight,maxWeightLimit,carSafetyRating,minSafetyRating,Can race,(carSpeed > minSpeedRequirement) && (carWeight <= maxWeightLimit) && (carSafetyRating >= minSafetyRating)
+120,100,1500,1800,9,7,,TRUE
+120,100,1500,1800,6,7,,FALSE
+120,100,2000,1800,9,7,,FALSE
+120,100,2000,1800,6,7,,FALSE
+80,100,1500,1800,9,7,,FALSE
+80,100,1500,1800,6,7,,FALSE
+80,100,2000,1800,9,7,,FALSE
+80,100,2000,1800,6,7,,FALSE
