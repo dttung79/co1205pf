@@ -124,8 +124,5 @@ card_var = BooleanVar()
 cb_greeting_card = Checkbutton(window, text="Greeting Card ($2)", variable=card_var, command=extra_selected)
 cb_greeting_card.grid(row=10, column=0, columnspan=2, sticky=W, padx=5)
 
-#### 3. WIDGETS ####
-
-
 #### 4. RUN THE MAIN LOOP ####
 window.mainloop()
